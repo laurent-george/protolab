@@ -18,7 +18,7 @@ setup(
     name='protolab',
     version='0.0.1',
     author='lgeorge',
-    author_email='laurent.george@srand.fr',
     packages=["protolab"],
+    install_requires=["cv2", "numpy",],
     py_modules=["geometry", "gpx", "image", "sensors", "webcam"],
 )
