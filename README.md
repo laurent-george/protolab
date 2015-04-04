@@ -1,4 +1,7 @@
-# protolab <a href='https://travis-ci.org/laurent-george/protolab'><img src='https://secure.travis-ci.org/laurent-george/protolab.png?branch='></a>
+# protolab
+
+[![Build Status](https://travis-ci.org/laurent-george/protolab.svg?branch=master)](https://travis-ci.org/laurent-george/protolab)
+
 Tools used in our team
 
 
